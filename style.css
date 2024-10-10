@@ -5,8 +5,8 @@
 --destaque:#0000CD;
 --preto:black;
 --branco:white;
-
 }
+
 body{
 background-color: var(--fundo);
 
