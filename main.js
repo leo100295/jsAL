@@ -12,6 +12,6 @@ cartao.innerHTML =  `
     <p>respostas</p>
 </div>
 </div>
-
-container.appendChild(cartao);
+` 
+container
 }
