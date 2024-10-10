@@ -12,7 +12,7 @@ criaCartao(
     3
     criaCartao(
     'matemática',
-    'qual é a fórmula de bháskara?',
+    'qual é a fórmula de bhaskara?',
     'Δ = b2 – 4ac : 2a')
     
     4
