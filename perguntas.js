@@ -1,7 +1,7 @@
 criaCartao(
     'matemática',
     'qual o seno de 45?',
-    ‘√2/2’)
+    '√2/2')
     
     2
     criaCartao(
@@ -13,13 +13,13 @@ criaCartao(
     criaCartao(
     'matemática',
     'qual é a fórmula de bhaskará?',
-    'Δ = b2 – 4ac : 2a’)
+    'Δ = b2 – 4ac : 2a')
     
     4
     criaCartao(
     'matemática',
     'fórmula de pitágoras',
-    'a² + b²= c²’)
+    'a² + b²= c²')
     
     5
     criaCartao(
