@@ -19,3 +19,7 @@ color: var(--branco);
 width: 100%;
 text-align: center;
  }
+
+ #container{
+    padding: 4rem;
+ }
