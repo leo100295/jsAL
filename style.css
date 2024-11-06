@@ -27,7 +27,7 @@ text-align: center;
     flex-wrap: wrap ;
  }
  .cartao{
-    background-color: var(--cartao-frente);
+  
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     height: 20rem;
@@ -67,7 +67,7 @@ padding: 2rem;
     font-weight: 700;
     color: var(--destaque);
     background-color: var(--cartao-verso);
-    transform: rotateY('180deg');
+    transform: rotateY(180deg);
     border: 2px solid var(--destaque);
  }
 
