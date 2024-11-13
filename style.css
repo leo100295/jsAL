@@ -80,7 +80,6 @@ padding: 2rem;
  }
 
  .cartao:hover .conteudo-cartao{
-    transform: rotateY(180deg);
  }
  .pergunta-cartao,
  .resposta-cartao{
