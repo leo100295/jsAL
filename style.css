@@ -10,7 +10,12 @@
 body{
 background-color: var(--fundo);
  }
-
+ header{
+   padding: 2rem;
+display: flex;
+justify-content: space-around;
+background-color: #87CEFA;
+}
  footer{
 position: fixed;
 bottom: 0;
