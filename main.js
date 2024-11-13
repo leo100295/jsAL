@@ -15,10 +15,10 @@ cartao.innerHTML =  `
 ` 
 
 let respostaV= false;
-function virar(){
+function viraCartao(){
     respostaV=!respostaV;
     cartao.classList.toggle('active', respostaV);
 }
-cartao.addEventListener('click', virar)
+cartao.addEventListener('click', viraCartao)
 container.appendChild(cartao);
 }
